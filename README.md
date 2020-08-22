@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Simples projeto CRUD para cadastrar nomes
+  Simples projeto CRUD para cadastrar nomes.
 </p>
 
 <h2 align="center">
