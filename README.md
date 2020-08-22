@@ -24,7 +24,7 @@
 
  
  <p align="center">
-  <img alt="GitHub top language" src="https://github.com/carlosuhlmann/calculadora/blob/master/calc.gif">
+  <img alt="GitHub top language" src="https://github.com/carlosuhlmann/crud/blob/master/crud.gif">
  </p>
  
  <hr>
